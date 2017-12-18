@@ -1,0 +1,15 @@
+{
+  "name": "mocha-tests",
+  "version": "1.0.0",
+  "description": "a practice environment for running mocha and chai tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Joshua Lacey",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
